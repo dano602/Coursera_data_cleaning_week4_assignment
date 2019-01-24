@@ -9,7 +9,8 @@ of Getting and Cleaning Data courset from Coursera.
 ## Dataset
 Tidy data contain 180 row and 82 columns. 
 Each subject of the study has 6 rows, each row for every type of physical activity measured. 
-Column names: 
+Column names:
+
 subjectId
 activityId
 activityType
