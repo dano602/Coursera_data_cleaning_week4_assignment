@@ -1,7 +1,7 @@
 ## Summary
 The data set was collected from the "UCI HAR Dataset" which is available at:
 
-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+[http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones]
 
 Tidy data stored in file tidyset.txt were derived from "UCI HAR Dataset" as an assignment for 4th week 
 of Getting and Cleaning Data courset from Coursera.
@@ -12,8 +12,8 @@ Each subject of the study has 6 rows, each row for every type of physical activi
 Column names:
 
 |Column name|
-    ---
-subjectId
+|-----------| 
+|subjectId  |
 activityId
 activityType
 tBodyAcc-mean()-X
