@@ -12,7 +12,7 @@ Each subject of the study has 6 rows, each row for every type of physical activi
 Column names:
 
 |Column name|
-|-----------| 
+|:---------:| 
 |subjectId  |
 activityId
 activityType
